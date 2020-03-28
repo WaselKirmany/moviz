@@ -1,2 +1,2 @@
 # moviz
-Movie downloaded
+Movie downloader
